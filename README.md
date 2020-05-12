@@ -1,2 +1,1 @@
-# IBM_DataScience
-IBM Data Science Professional Certificate (github)
+# Applied Data Science

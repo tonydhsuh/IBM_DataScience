@@ -1,1 +1,1 @@
-# Applied Data Science
+# Learnings from Applied Data Science
